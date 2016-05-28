@@ -36,7 +36,7 @@ body {
 }
 #header{
     font-size: 32px;
-    color: cyan;
+    color: yellow;
 }
 #date{
     float: next;
@@ -48,6 +48,7 @@ body {
 }
 #jobs{
     font-size: 20px;
+    color: crimson;
 }
 h4{
     margin-top: 0px;
